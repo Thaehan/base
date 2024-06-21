@@ -1,0 +1,14 @@
+{
+  "name": "react-native-screen-brightness",
+  "version": "0.0.0",
+  "description": "React native screen bightness controller",
+  "main": "src/index",
+  "codegenConfig": {
+    "name": "RNScreenBrightnessSpec",
+    "type": "modules",
+    "jsSrcsDir": "src"
+  },
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme"
+}
